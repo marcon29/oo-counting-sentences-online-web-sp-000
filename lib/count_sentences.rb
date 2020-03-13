@@ -15,7 +15,6 @@ class String
   end
 
   def count_sentences
-
-
+    self.scan(/\b[?.!]/).length
   end
 end
