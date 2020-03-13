@@ -20,5 +20,5 @@ class String
     end
     count_punctuation.length
   end
-  
+
 end
