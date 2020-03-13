@@ -15,6 +15,10 @@ class String
   end
 
   def count_sentences
-
+    count_punctuation = self.split("").select do |character|
+      character == "." || character == "?" || character == "!"
+    end
+    count_punctuation.length
   end
+  
 end
