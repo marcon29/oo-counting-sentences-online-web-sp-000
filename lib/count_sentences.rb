@@ -21,5 +21,7 @@ binding.pry
     end
     count_punctuation.length
   end
+  count_sentences
 
 end
+
