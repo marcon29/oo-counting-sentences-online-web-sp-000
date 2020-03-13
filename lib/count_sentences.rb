@@ -15,10 +15,8 @@ class String
   end
 
   def count_sentences
-binding.pry
+
 
   end
 end
 
-
-  String::count_sentences
