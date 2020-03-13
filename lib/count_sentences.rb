@@ -21,6 +21,6 @@ binding.pry
     end
     count_punctuation.length
   end
-  count_sentences
+  self.count_sentences
 
 end
