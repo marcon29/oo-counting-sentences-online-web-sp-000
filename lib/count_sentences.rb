@@ -21,4 +21,4 @@ binding.pry
 end
 
 
-  self.count_sentences
+  String::count_sentences
