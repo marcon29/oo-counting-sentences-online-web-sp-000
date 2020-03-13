@@ -24,4 +24,3 @@ binding.pry
   count_sentences
 
 end
-
